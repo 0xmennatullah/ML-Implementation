@@ -1,5 +1,4 @@
-﻿# Implementatios
-## 1. ML:
+﻿# ML Concepts Implementatios:
 ### Regression 
 - [ ] Simple 
 - [ ] Multiple Linear 
@@ -27,5 +26,6 @@
 - [ ] K-fold Cross Validation
 - [ ] XGBoost
  
+
 
 
