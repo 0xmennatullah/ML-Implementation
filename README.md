@@ -27,5 +27,5 @@
 - [ ] K-fold Cross Validation
 - [ ] XGBoost
  
- ## 2. DL
+
 
